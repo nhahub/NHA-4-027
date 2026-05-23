@@ -12,8 +12,8 @@ using TerralexAPP.Data;
 namespace TerralexAPP.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260523141949_InitialIdentity")]
-    partial class InitialIdentity
+    [Migration("20260523145714_AddFirstNameLastNameToApplicationUser")]
+    partial class AddFirstNameLastNameToApplicationUser
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -192,6 +192,14 @@ namespace TerralexAPP.Migrations
 
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("FirstName")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("LastName")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<bool>("LockoutEnabled")
                         .HasColumnType("bit");

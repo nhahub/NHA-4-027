@@ -1,0 +1,46 @@
+@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "_DashboardLayout";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="mb-4">Welcome to TerralexAPP Dashboard</h1>
+        <p class="lead">Select an option from the navigation bar above to get started.</p>
+    </div>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-body text-center">
+                <i class="bi bi-people" style="font-size: 3rem; color: #007bff;"></i>
+                <h5 class="card-title mt-3">Clients</h5>
+                <p class="card-text">Manage your clients information and details.</p>
+                <a href="@Url.Action("Clients", "Dashboard")" class="btn btn-primary">View Clients</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-body text-center">
+                <i class="bi bi-building" style="font-size: 3rem; color: #28a745;"></i>
+                <h5 class="card-title mt-3">Properties</h5>
+                <p class="card-text">Manage and view all properties.</p>
+                <a href="@Url.Action("Properties", "Dashboard")" class="btn btn-success">View Properties</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-body text-center">
+                <i class="bi bi-file-earmark" style="font-size: 3rem; color: #ffc107;"></i>
+                <h5 class="card-title mt-3">Documents</h5>
+                <p class="card-text">Manage documents and files.</p>
+                <a href="@Url.Action("Documents", "Dashboard")" class="btn btn-warning">View Documents</a>
+            </div>
+        </div>
+    </div>
+</div>

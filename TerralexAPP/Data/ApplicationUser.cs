@@ -7,5 +7,11 @@ namespace TerralexAPP.Data
     {
         [MaxLength(20)]
         public string? City { get; set; }
+
+        [MaxLength(100)]
+        public string? FirstName { get; set; }
+
+        [MaxLength(100)]
+        public string? LastName { get; set; }
     }
 }

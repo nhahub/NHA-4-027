@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
-namespace TerralexApp.Data
+namespace TerralexAPP.Data
 {
     public partial class AppDbContext : IdentityDbContext<ApplicationUser, ApplicationRole, int>  // DbContext
     {
