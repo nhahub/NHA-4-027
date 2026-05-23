@@ -1,0 +1,562 @@
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\appsettings.Development.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\appsettings.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.staticwebassets.runtime.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.staticwebassets.endpoints.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.exe
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.deps.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.runtimeconfig.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.pdb
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Azure.Core.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Azure.Identity.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Humanizer.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.ClientModel.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.CodeDom.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Memory.Data.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.csproj.AssemblyReference.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.AssemblyInfoInputs.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.AssemblyInfo.cs
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.csproj.CoreCompileInputs.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.RazorAssemblyInfo.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.RazorAssemblyInfo.cs
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\scopedcss\bundle\TerralexAPP.styles.css
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\scopedcss\projectbundle\TerralexAPP.bundle.scp.css
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gyr83bgyjb-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\t2b3ras3nd-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8gj7nrpk7e-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\lbl6hgufuo-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\x2l53gjxhp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\1c7qeekhcv-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\npryvj6k79-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\a1x8befaey-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\xp77sf4dt9-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ddq2azs3sg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8ided0gato-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ioqik9kxri-{0}-ub07r2b239-ub07r2b239.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gugg0q0zog-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\w3z4bfz53k-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\wkjkalc35d-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\jmn67yv1rv-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\4jgkex2431-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\zxzxdp7ttx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\hk215c2rgi-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\g7avax9yp2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\76rh4ic37p-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\1w8ysf6kei-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\x5vvu64bvi-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\kvt87avkny-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\loej4fodm5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\aezbj43wlg-{0}-06098lyss8-06098lyss8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\kk45y7udht-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\mzfnnet6bp-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gd3ijkzfi3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\64oaktp7zm-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gqtbmg8xp7-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\amuphv31st-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ij9iw8bb1g-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\c3hvqx0hst-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\yfct0wjokn-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\vcu6o9nigx-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\6b1o0tqmc1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\jr3c31x1f5-{0}-493y06b0oq-493y06b0oq.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\m8sb8yk9gg-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\uxldn9f6s5-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\dgmtwiyr3v-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\aqdkuzxq33-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\bqicyj3yas-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\7zf6crwbyk-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\hnyxzswzt6-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gjsgwptj3k-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8q6hamtobg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\7bdkh10hf0-{0}-47otxtyo56-47otxtyo56.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\d6lfk7a0xv-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ygphgtnl6s-{0}-356vix0kms-356vix0kms.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\bbwz5igshn-{0}-83jwlth58m-83jwlth58m.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\3aegf5wj8b-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\n5l8uoikrw-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\zve1oxjd78-{0}-ag7o75518u-ag7o75518u.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\dmz87vwr6c-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\xc87eqxkzk-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\tzmbyek7vz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\2a3sna5hno-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\0qlsicqtyr-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\27zhrr32a3-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\atym5d32p1-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\0ndcc0cogu-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\q1dkl2wrqk-{0}-ac06rxb8lx-ac06rxb8lx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\6q25040ayn-{0}-ac06rxb8lx-ac06rxb8lx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.build.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.development.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\swae.build.ex.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\Terralex.7B51CB9B.Up2Date
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\refint\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.pdb
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.genruntimeconfig.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\ref\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\3a3jx6m5bx-{0}-kph9ssa9tw-kph9ssa9tw.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\rkd2z1kpeh-{0}-tsktybjl9l-tsktybjl9l.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\oj6fwg5vnv-{0}-nz5kbx4xbj-nz5kbx4xbj.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\3gz3d9oprw-{0}-g53uasv6dc-g53uasv6dc.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\thn76hwddl-{0}-w66ohh991v-w66ohh991v.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\z0ziy1jxm4-{0}-6kkcsmav7q-6kkcsmav7q.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\s1pp2gjp7w-{0}-yh5zkguyh5-yh5zkguyh5.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\zvwt97mz6f-{0}-yt9971acff-yt9971acff.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\hk2eymit1q-{0}-vkw6p8k371-vkw6p8k371.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\fp40v2se6m-{0}-zwkc624bs0-zwkc624bs0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\1w9e9xvach-{0}-5ajejy9h7j-5ajejy9h7j.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\207s214b21-{0}-1k3o34qplo-1k3o34qplo.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\pyu96p337p-{0}-dtkbpckg1k-dtkbpckg1k.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\khttmnbz4u-{0}-1vmg51jdm3-1vmg51jdm3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\q4ke5tpzci-{0}-s7l3f8qtjn-s7l3f8qtjn.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\qnbu7adbcq-{0}-nhlaq1q8x1-nhlaq1q8x1.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ex20dfmltl-{0}-d4k6i95o91-d4k6i95o91.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\bprzth7m7n-{0}-ku154v8nl3-ku154v8nl3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\xa41ize96h-{0}-av9bpvv7y2-av9bpvv7y2.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\34mh9p5a1d-{0}-uv0xslgry7-uv0xslgry7.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\vjpspzd7zc-{0}-qug0uehi2j-qug0uehi2j.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\tswf8kpp0u-{0}-y3guuqhdar-y3guuqhdar.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\royh76xew2-{0}-jb73v50jd0-jb73v50jd0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\g9hc78mi05-{0}-yaxj0lzxrb-yaxj0lzxrb.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\zlycqx7d2v-{0}-shhkz278od-shhkz278od.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\juf88vcemm-{0}-3n8jclktyp-3n8jclktyp.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\h0qgszsnw7-{0}-yp0fp88dw7-yp0fp88dw7.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\#7 ASP.net Core MVC\Day 7\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ftlib4mb92-{0}-dfyy3tee6m-dfyy3tee6m.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\appsettings.Development.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\appsettings.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.staticwebassets.endpoints.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.staticwebassets.runtime.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.exe
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.deps.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.runtimeconfig.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\TerralexAPP.pdb
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Azure.Core.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Azure.Identity.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Humanizer.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.ClientModel.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.CodeDom.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Memory.Data.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.csproj.AssemblyReference.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.AssemblyInfoInputs.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.AssemblyInfo.cs
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.csproj.CoreCompileInputs.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.RazorAssemblyInfo.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.RazorAssemblyInfo.cs
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\scopedcss\bundle\TerralexAPP.styles.css
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\scopedcss\projectbundle\TerralexAPP.bundle.scp.css
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gyr83bgyjb-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\t2b3ras3nd-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8gj7nrpk7e-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\lbl6hgufuo-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\x2l53gjxhp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\1c7qeekhcv-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\npryvj6k79-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\a1x8befaey-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\xp77sf4dt9-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ddq2azs3sg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8ided0gato-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ioqik9kxri-{0}-ub07r2b239-ub07r2b239.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gugg0q0zog-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\w3z4bfz53k-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\wkjkalc35d-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\jmn67yv1rv-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\4jgkex2431-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\zxzxdp7ttx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\hk215c2rgi-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\g7avax9yp2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\76rh4ic37p-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\1w8ysf6kei-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\x5vvu64bvi-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\kvt87avkny-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\loej4fodm5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\aezbj43wlg-{0}-06098lyss8-06098lyss8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\kk45y7udht-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\mzfnnet6bp-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gd3ijkzfi3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\64oaktp7zm-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gqtbmg8xp7-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\amuphv31st-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ij9iw8bb1g-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\c3hvqx0hst-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\yfct0wjokn-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\vcu6o9nigx-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\6b1o0tqmc1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\jr3c31x1f5-{0}-493y06b0oq-493y06b0oq.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\m8sb8yk9gg-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\uxldn9f6s5-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\dgmtwiyr3v-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\aqdkuzxq33-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\bqicyj3yas-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\7zf6crwbyk-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\hnyxzswzt6-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gjsgwptj3k-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8q6hamtobg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\7bdkh10hf0-{0}-47otxtyo56-47otxtyo56.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\d6lfk7a0xv-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ygphgtnl6s-{0}-356vix0kms-356vix0kms.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\bbwz5igshn-{0}-83jwlth58m-83jwlth58m.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\3aegf5wj8b-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\n5l8uoikrw-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\zve1oxjd78-{0}-ag7o75518u-ag7o75518u.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\dmz87vwr6c-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\xc87eqxkzk-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\tzmbyek7vz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\2a3sna5hno-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\0qlsicqtyr-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\27zhrr32a3-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\atym5d32p1-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\0ndcc0cogu-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\q1dkl2wrqk-{0}-ac06rxb8lx-ac06rxb8lx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\6q25040ayn-{0}-ac06rxb8lx-ac06rxb8lx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.build.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.development.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\swae.build.ex.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\Terralex.7B51CB9B.Up2Date
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\refint\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.pdb
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\TerralexAPP.genruntimeconfig.cache
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\ref\TerralexAPP.dll
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\rmrd2ayp3s-{0}-9ipwfy7v4n-9ipwfy7v4n.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\mx6spp5b8z-{0}-ht10int9wb-ht10int9wb.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\5187w67aea-{0}-0uc6f3wkle-0uc6f3wkle.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\xl78viaaqh-{0}-jfm3rcjzyc-jfm3rcjzyc.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\j55uf788pw-{0}-akmhyfivmy-akmhyfivmy.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\wts1vjk8gc-{0}-x8fnk1bhg7-x8fnk1bhg7.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\wcaixrqg84-{0}-zk3snyengw-zk3snyengw.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\dtuhmgt16q-{0}-q3n68jwt9f-q3n68jwt9f.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\dpzdiejuew-{0}-ho0d1k5s6r-ho0d1k5s6r.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\cngrg71r7l-{0}-4udlh72t27-4udlh72t27.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\jhi241e676-{0}-26f9b7qkas-26f9b7qkas.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8j1t7n1d5f-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\e6xydt5kxw-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\f22a984gj1-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\fiaq985z4s-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\noj7j8li38-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\5ldpoaluch-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\7u2iwcosmt-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\x6vn5u63u9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ifkhnjfcu2-{0}-ub07r2b239-ub07r2b239.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\mum5nq44d6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8r9oijhdju-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\21beit9sqj-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8rs3dofysn-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\fl533c1fdz-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\gjqrlo9iru-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ggvtxkki6g-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\mm5kglqzjv-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\wk5uhjg0oa-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\5ks82gse92-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\vwnw8aii7r-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\adavwnmrih-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\t92ayoej0e-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\4mj9w7word-{0}-06098lyss8-06098lyss8.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\6mbccmh131-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\rha0mbi85x-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\vgvr001evn-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\c5i5ner7c3-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\tcj7fk5qrs-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8g9lwmb5r6-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\iwyc5tgrv0-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\6twyr2hpyh-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\zkcwvki7g5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ypwt7z8ijy-{0}-6c07u4zvxz-6c07u4zvxz.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\kxf35i7nnj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\adh3bhd3ee-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\mgjweggg8r-{0}-493y06b0oq-493y06b0oq.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\tj39th3at8-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\8ex5b503ap-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\u08sdpei8g-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\ewaxrwk7kl-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\v1errl2wds-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\uddxbgiuvj-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\pvd2q8kx4n-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\mixzsvmvs3-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\pmm2v3rhc7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\i9cw7nzgic-{0}-id5vwp8p47-id5vwp8p47.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\k9b1byki32-{0}-jc95ic8utn-jc95ic8utn.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\6zhezev47h-{0}-j5zv2db0yw-j5zv2db0yw.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\wck9s4yqxn-{0}-kiwfr2v9an-kiwfr2v9an.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\fkrhlf0m38-{0}-zdybs0gz2x-zdybs0gz2x.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\h06lanhafo-{0}-wkij6wtprp-wkij6wtprp.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\bwnx426b8t-{0}-9wtfm7j0ok-9wtfm7j0ok.gz
+E:\#      0   DEPI\EDPI 2025 R4\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\Team 1\TerralexAPP\TerralexAPP\obj\Debug\net9.0\compressed\32ugdvss8l-{0}-vjom3bl46k-vjom3bl46k.gz
