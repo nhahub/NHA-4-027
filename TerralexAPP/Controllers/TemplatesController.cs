@@ -45,7 +45,9 @@ namespace TerralexAPP.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Template template, IFormFile templateFile)
         {
-            if (ModelState.IsValid || (template.TemplateName != null && templateFile != null))
+            ModelState.Remove(nameof(template.TemplateContentPath));
+
+            if (ModelState.IsValid)
             {
                 if (templateFile != null && templateFile.Length > 0)
                 {
@@ -105,7 +107,9 @@ namespace TerralexAPP.Controllers
             var existingTemplate = await _context.Templates.FindAsync(id);
             if (existingTemplate == null || existingTemplate.IsDeleted) return NotFound();
 
-            if (ModelState.IsValid || template.TemplateName != null)
+            ModelState.Remove(nameof(template.TemplateContentPath));
+
+            if (ModelState.IsValid)
             {
                 try
                 {

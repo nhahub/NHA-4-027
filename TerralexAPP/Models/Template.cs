@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TerralexApp.Models;
@@ -12,9 +12,8 @@ public partial class Template
     [StringLength(200, ErrorMessage = "Template name cannot exceed 200 characters")]
     public string TemplateName { get; set; }
 
-    [Required(ErrorMessage = "Template content path is required")]
     [StringLength(250, ErrorMessage = "Template content path cannot exceed 250 characters")]
-    public string TemplateContentPath { get; set; }
+    public string? TemplateContentPath { get; set; }
 
     public bool IsDeleted { get; set; }
 
