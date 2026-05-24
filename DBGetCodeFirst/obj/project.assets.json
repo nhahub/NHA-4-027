@@ -2744,25 +2744,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SayedHawas\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Rowan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\#      0   DEPI\\EDPI 2025 R4\\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\\Team 1\\TerralexAPP\\DBGetCodeFirst\\DBGetCodeFirst.csproj",
+      "projectUniqueName": "C:\\DEPI\\Final Project\\TerralexAPP\\TerralexAPP\\DBGetCodeFirst\\DBGetCodeFirst.csproj",
       "projectName": "DBGetCodeFirst",
-      "projectPath": "E:\\#      0   DEPI\\EDPI 2025 R4\\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\\Team 1\\TerralexAPP\\DBGetCodeFirst\\DBGetCodeFirst.csproj",
-      "packagesPath": "C:\\Users\\SayedHawas\\.nuget\\packages\\",
-      "outputPath": "E:\\#      0   DEPI\\EDPI 2025 R4\\Group 1 ALX4_SWD5_G1 Fr 2-5 Mon 7-10\\Team 1\\TerralexAPP\\DBGetCodeFirst\\obj\\",
+      "projectPath": "C:\\DEPI\\Final Project\\TerralexAPP\\TerralexAPP\\DBGetCodeFirst\\DBGetCodeFirst.csproj",
+      "packagesPath": "C:\\Users\\Rowan\\.nuget\\packages\\",
+      "outputPath": "C:\\DEPI\\Final Project\\TerralexAPP\\TerralexAPP\\DBGetCodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SayedHawas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rowan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2789,7 +2787,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -2816,7 +2814,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
